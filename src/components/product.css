@@ -1,0 +1,31 @@
+.product 
+{
+    border: 1px solid #6a6a6a;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    height: auto;
+    width: 250px;
+    border-radius: 5px; 
+    transition: 0.2s;
+}
+
+.product:hover {
+    box-shadow: 10px 5px 5px rgba(128, 128, 128, 0.531);
+    scale: 1.05;
+}
+
+
+
+.prices 
+{
+    margin: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    align-content: center;
+}
+
+.product img {
+    width: 200px;
+    height: 190px;
+}

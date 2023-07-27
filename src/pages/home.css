@@ -1,0 +1,14 @@
+.home {
+    background-color: rebeccapurple;
+}
+
+.home h1 {
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.home .btn {
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%);
+}
